@@ -1,0 +1,44 @@
+h1{
+    color: rgb(255, 0, 0);
+    font-size: xx-large;
+}
+p{
+    color: yellow;
+    font-size: large;
+}
+body{
+    background-color: palevioletred;
+}
+
+ul li{
+    list-style: none;
+    display: inline;
+    color: crimson;
+    border: 3px dashed darkblue;
+    
+
+}
+
+ol li{
+    list-style: none;
+    /* float: right;  */
+    border: 4px solid purple;
+    display: inline;
+    text-align: center;
+}
+img{
+    width: 15%;
+    border-radius: 300px
+    
+    
+      
+}
+body{
+    background-image: url(/imagess/cat-3678858_960_720.jpg);
+    /* background-position: left; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+video{
+    float: right;
+}
